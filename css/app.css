@@ -1,0 +1,25 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    color: #333;
+    font-family: "Courier New", Courier, monospace;
+  }
+  
+  img {
+      max-width: 100%;
+  }
+  
+  .img-block {
+     margin: 0 auto;
+     display: block; 
+  }
+  
+  
+  .text-center {
+      text-align: center;
+  }
+  
+  hr {
+    margin: auto;
+    width: 40%;
+  }
